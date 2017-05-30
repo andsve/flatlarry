@@ -1,0 +1,9 @@
+images {
+  image: "/flatlarry/button_normal.png"
+}
+images {
+  image: "/flatlarry/button_pressed.png"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
